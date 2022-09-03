@@ -5,3 +5,5 @@ test
 >>>>>>> Stashed changes
 
 Je suis une erreur !
+
+coucou
